@@ -3,12 +3,14 @@ h1 {
   font-family: cursive;
   font-style: italic;
   text-align: center;
+  background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwiHuOaJhPfPAhVFrD4KHaXbBbgQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlag_of_Italy&psig=AFQjCNE0HiEwsmyFz31Qh7nnK637lYB5ww&ust=1477521883511174")
 }
 nav {
   background-color: blue;
   padding: 25px;
   font-size: 14;
 }
+
 a {
   padding: 40px;
   text-decoration: none;
