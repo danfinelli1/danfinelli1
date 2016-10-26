@@ -16,10 +16,11 @@ a {
   text-decoration: none;
   color: white;
   font-size: 14;
+  font-family: cursive;
 }
 img {
   display: inline-block;
-  height:475px;
+  height: 475px;
   width: 800px;
   margin: 50px;
 
@@ -27,6 +28,8 @@ img {
 header {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
+  border: 2px solid;
+  border-radius: 50px;
 }
 body {
   background-color: rgba(0, 0, 0, .7);
