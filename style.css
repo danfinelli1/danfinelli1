@@ -14,14 +14,18 @@ nav {
 a {
   padding: 40px;
   text-decoration: none;
+  color: white;
+  font-size: 14;
 }
 img {
-  display: block;
-  height: 400px;
+  display: inline-block;
+  height:265px;
   width: 400px;
+  margin: 25px;
 }
 header {
-  background-color: rgba(0, 0, 255, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
 }
 body {
   background-color: rgba(0, 0, 0, .7);
