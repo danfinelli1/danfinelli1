@@ -4,11 +4,14 @@ h1 {
   font-style: italic;
   text-align: center;
 }
+h2 {
+  color: white;
+}
 head {
 }
 nav {
-  padding: 25px;
-  font-size: 14;
+  padding: 20px;
+  font-size: 25px;
 }
 
 a {
@@ -20,9 +23,10 @@ a {
 }
 img {
   display: inline-block;
-  height: 475px;
-  width: 800px;
-  margin: 50px;
+  height: 250px;
+  width: 1000px;
+  margin-left: 70px;
+  margin-top: 20px;
 
 }
 header {
@@ -33,4 +37,13 @@ header {
 }
 body {
   background-color: rgba(0, 0, 0, .7);
+}
+#card2{
+  float: right;
+}
+.cards {
+  display: inline-block;
+  height: 200px;
+  width: 400px;
+  background-color: red;
 }
