@@ -19,9 +19,9 @@ a {
   font-family: cursive;
 }
 img {
-  display: inline-block;
-  height:265px;
-  width: 400px;
+  display: block;
+  height:665px;
+  width: 800px;
   margin: 25px;
 }
 header {
