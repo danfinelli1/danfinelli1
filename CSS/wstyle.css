@@ -24,10 +24,8 @@ a {
   font-size: 14;
   font-family: cursive;
 }
-img {
+#logo {
   display: inline-block;
-  height: 300px;
-  width: 1000px;
   margin-left: 70px;
   margin-top: 20px;
 
@@ -41,7 +39,12 @@ header {
 body {
   background-color: rgba(0, 0, 0, .7);
 }
-
+.social-buttons{
+  width: 50px;
+  height: 50px;
+  vertical-align: bottom;
+  float: left;
+}
 #card1 {
   display: inline-block;
   height: 200px;

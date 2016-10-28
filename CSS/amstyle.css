@@ -37,3 +37,6 @@ body {
 footer {
   vertical-align: bottom;
 }
+.social-buttons {
+  vertical-align: baseline;
+}

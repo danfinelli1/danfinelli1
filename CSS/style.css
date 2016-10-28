@@ -18,12 +18,7 @@ a {
   font-size: 14;
   font-family: cursive;
 }
-img {
-  display: inline-block;
-  height:265px;
-  width: 400px;
-  margin: 25px;
-}
+
 header {
   background-color: rgba(0, 0, 0, .7);
   color: white;
@@ -32,4 +27,15 @@ header {
 }
 body {
   background-color: rgba(0, 0, 0, .7);
+}
+
+.flags{
+  display:inline-block;
+  margin: 25px;
+}
+b {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  vertical-align: bottom;
 }
