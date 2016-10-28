@@ -19,11 +19,12 @@ a {
   font-family: cursive;
 }
 img {
-  display: block;
-  height:565px;
-  width: 700px;
-  margin: 25px;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  vertical-align: bottom;
 }
+
 header {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
@@ -32,4 +33,7 @@ header {
 }
 body {
   background-color: rgba(0, 0, 0, .7);
+}
+footer {
+  vertical-align: bottom;
 }
