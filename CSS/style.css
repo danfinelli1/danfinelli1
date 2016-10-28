@@ -3,6 +3,7 @@ h1 {
   font-family: cursive;
   font-style: italic;
   text-align: center;
+  color: white;
 }
 head {
 }
@@ -10,12 +11,15 @@ nav {
   padding: 25px;
   font-size: 14;
 }
+p, h2 {
+  color:white;
+}
 
 a {
   padding: 40px;
   text-decoration: none;
   color: white;
-  font-size: 14;
+  font-size: 20px;
   font-family: cursive;
 }
 
@@ -32,10 +36,4 @@ body {
 .flags{
   display:inline-block;
   margin: 25px;
-}
-b {
-  display: inline-block;
-  height: 50px;
-  width: 50px;
-  vertical-align: bottom;
 }

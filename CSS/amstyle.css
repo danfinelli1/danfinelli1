@@ -3,12 +3,16 @@ h1 {
   font-family: cursive;
   font-style: italic;
   text-align: center;
+  color: white;
+}
+p, h2{
+  color: white;
 }
 head {
 }
 nav {
   padding: 25px;
-  font-size: 14;
+  font-size: 20px;
 }
 
 a {
@@ -35,8 +39,5 @@ body {
   background-color: rgba(0, 0, 0, .7);
 }
 footer {
-  vertical-align: bottom;
-}
-.social-buttons {
-  vertical-align: baseline;
+  
 }
