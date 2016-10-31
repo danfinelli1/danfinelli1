@@ -24,7 +24,9 @@ a {
   font-size: 14;
   font-family: cursive;
 }
-#logo {
+#WDILogo {
+  width: 1000px;
+  height: 300px;
   display: inline-block;
   margin-left: 70px;
   margin-top: 20px;
@@ -43,10 +45,12 @@ body {
 .social-buttons{
   width: 50px;
   height: 50px;
-  vertical-align: bottom;
-  float: left;
+  bottom: 5%;
+  position: absolute;
+  display: inline-block;
+
 }
-#card1 {
+.card {
   display: inline-block;
   height: 200px;
   width: 400px;
@@ -58,76 +62,4 @@ body {
   font-size: 22px;
   color: purple;
 
-}
-#card2 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
-}
-#card3 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
-}
-#card4 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
-}
-#card5 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
-}
-#card6 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
-}
-#card7 {
-  display: inline-block;
-  height: 200px;
-  width: 400px;
-  background-color: rgb(240,128,128);
-  margin:50px;
-  border: 2px solid white;
-  border-radius: 25px;
-  text-align: center;
-  font-size: 22px;
-  color: purple;
 }
