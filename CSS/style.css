@@ -4,6 +4,10 @@
  .drop {
    width: 120px;
  }
+ .nav-logo{
+   width: 70px;
+   height: 70px;
+ }
 
 #ham{
   height: 60px;
