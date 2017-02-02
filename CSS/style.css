@@ -1,8 +1,11 @@
 .parallax-container {
    height: 600px;
  }
+ .dropdown-content {
+   width: 75px;
+ }
 
 #ham{
-  height: 25px;
-  width: 25px;
+  height: 40px;
+  width: 40px;
 }
