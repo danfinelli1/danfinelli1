@@ -11,7 +11,10 @@
    height: 60px;
    padding: 10px;
  }
-
+ .dropdown-content li>a {
+   color: #000 !important;
+   background-color: red;
+ }
 
 #ham{
   height: 60px;
