@@ -3,6 +3,8 @@
  }
  .drop {
    width: 120px;
+   background-color: red;
+   color: black;
  }
  .nav-logo{
    width: 60px;
