@@ -1,3 +1,8 @@
+h2, h5 {
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
 .parallax-container {
    height: 600px;
  }
@@ -19,11 +24,6 @@
  .dropdown-content {
    background-color: #f97082;
  }
- h2, h5 {
-   text-align: center;
-   vertical-align: middle;
-   color: white;
- }
 
  .work_btn {
    margin-left: 43%;
@@ -37,4 +37,11 @@
   height: 60px;
   width: 60px;
   padding: 10px;
+}
+
+#triangle-topright {
+  width: 0;
+  height: 0;
+  border-top: 100px solid blue;
+  border-left: 100px solid transparent;
 }
