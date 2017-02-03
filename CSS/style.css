@@ -3,8 +3,6 @@
  }
  .drop {
    width: 120px;
-   background-color: red;
-   color: black;
  }
  .nav-logo {
    width: 60px;
@@ -15,7 +13,7 @@
    color: #000 !important;
  }
  .dropdown-content {
-   background-color: #ff5b71;
+   background-color: #f77b8c;
  }
 
 #ham{
