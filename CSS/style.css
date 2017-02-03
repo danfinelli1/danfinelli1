@@ -33,6 +33,14 @@ h2, h5 {
    padding-right: 50px;
  }
 
+ .who {
+   color: #f97082;
+ }
+
+ .i_am {
+   color: black;
+ }
+
 #ham {
   height: 60px;
   width: 60px;
