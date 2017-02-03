@@ -11,7 +11,7 @@
    height: 60px;
    padding: 10px;
  }
- .dropdown-content li>a {
+ .dropdown-content {
    color: #000 !important;
    background-color: #ff5b71;
  }
