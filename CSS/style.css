@@ -1,22 +1,31 @@
 .parallax-container {
    height: 600px;
  }
+
  .drop {
    width: 120px;
  }
+
  .nav-logo {
    width: 60px;
    height: 60px;
    padding: 10px;
  }
+
  .dropdown-content li>a {
    color: #000 !important;
  }
+
  .dropdown-content {
    background-color: #f97082;
  }
+ .work_btn {
+   vertical-align: middle;
+   text-align: center;
+   position:relative;
+ }
 
-#ham{
+#ham {
   height: 60px;
   width: 60px;
   padding: 10px;
