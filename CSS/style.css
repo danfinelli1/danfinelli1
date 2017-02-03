@@ -35,10 +35,16 @@ h2, h5 {
 
  .who {
    color: #f97082;
+   padding-left: 50px;
  }
 
  .i_am {
    color: black;
+   padding-left: 50px;
+ }
+
+ .para {
+   text-align: right;
  }
 
 #ham {
