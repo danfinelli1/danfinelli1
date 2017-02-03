@@ -19,10 +19,13 @@
  .dropdown-content {
    background-color: #f97082;
  }
+
  .work_btn {
    vertical-align: middle;
    text-align: center;
-   position:relative;
+   margin-left: 45%;
+   margin-top: 45%;
+   padding: 10px;
  }
 
 #ham {
