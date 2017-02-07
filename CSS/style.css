@@ -46,7 +46,6 @@ h2, h5 {
 }
 
  .para {
-   text-align: left;
    padding-top: 90px;
    padding-right: 150px;
  }
@@ -56,6 +55,7 @@ h2, h5 {
  }
 
  .para_and_link {
+   padding-right: 100px;
    float: right;
  }
 
