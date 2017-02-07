@@ -4,7 +4,7 @@ h2, h5 {
   color: white;
 }
 .parallax-container {
-   height: 600px;
+   height: 620px;
  }
 
  .drop {
@@ -41,13 +41,8 @@ h2, h5 {
    color: black;
  }
 
-.me {
-  padding-left: 100px;
-  align-self: left;
-}
-
  .para {
-   text-align: left;
+   align-content: right;
    padding-top: 90px;
    padding-right: 150px;
  }
