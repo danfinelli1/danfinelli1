@@ -52,6 +52,12 @@ h2, h5 {
     top: 150px;
 }
 
+.i_do {
+    color: white;
+    position: absolute;
+    top: 210px;
+}
+
 .me {
     width: 100%;
     padding-left: 150px;
