@@ -36,30 +36,40 @@ h2, h5 {
 
 .who {
    color: #f97082;
+   position: absolute;
+   top: 100px;
 }
 
 .i_am {
    color: black;
+   position: absolute;
+   top: 170px;
 }
 
 .me {
-  padding-left: 100px;
-  float: left;
-  position: absolute;
-  top: 700px;
+    width: 100%;
+    padding-left: 150px;
+    position: absolute;
+    top: 700px;
 }
 
 .para {
-   float: right;
-   position: relative;
+    position: absolute;
+    right: 175px;
+    top: 120px;
+    font-size: larger;
 }
 
 .link {
-    position: inherit;
-    float: left;
-
+    position: absolute;
+    right: 696px;
+    top: 275px;
 }
 
+.tri-img {
+    width: 100%;
+    height: 350px;
+}
 
 #do {
    width: 100%;
