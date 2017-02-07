@@ -45,6 +45,8 @@ h2, h5 {
 .me {
   padding-left: 100px;
   float: left;
+  position: absolute;
+  top: 700px;
 }
 
 .para {
@@ -57,7 +59,7 @@ h2, h5 {
 .para_and_link {
    padding-right: 100px;
    float: right !important;
-   position: absolute;
+   position: relative;
    top: 1000px;
 }
 
