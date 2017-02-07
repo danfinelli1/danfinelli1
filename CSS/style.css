@@ -51,17 +51,16 @@ h2, h5 {
 
 .para {
    padding-top: 90px;
+   float: right;
+   position: relative;
 }
 
 .link {
+    position: inherit;
+    float: left;
+
 }
 
-.para_and_link {
-   padding-right: 100px;
-   float: right !important;
-   position: relative;
-   top: 1000px;
-}
 
 #do {
    width: 100%;
