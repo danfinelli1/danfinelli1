@@ -50,12 +50,14 @@ h2, h5 {
     color: #f97082;
     position: absolute;
     top: 150px;
+    right: 200px;
 }
 
 .i_do {
     color: white;
     position: absolute;
     top: 210px;
+    right: 200px;
 }
 
 .me {
