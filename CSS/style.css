@@ -42,7 +42,7 @@ h2, h5 {
  }
 
  .para {
-   align-content: right;
+   text-align: left;
    padding-top: 90px;
    padding-right: 150px;
  }
