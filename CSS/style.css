@@ -130,12 +130,12 @@
     top: -15px;
 }
 
-.reach_me {
-    position: relative;
-}
 
 .reach {
-    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -1025px;
+    left: 740px;
 }
 
 
