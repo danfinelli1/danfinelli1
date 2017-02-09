@@ -117,6 +117,10 @@
     top: -15px;
 }
 
+#my_projects {
+    height: 400px;
+}
+
 #be {
     position: relative;
     left: 20px;
@@ -154,9 +158,9 @@
 }
 
 #ham {
-    height: 200px;
-    width: 200px;
-    position: absolute;
-    top: -75px;
-    right: -68px
+    height: 40px;
+    width: 40px;
+    position: relative;;
+    top: 5px;
+    right: -5px
 }
