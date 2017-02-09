@@ -130,10 +130,9 @@
     top: -15px;
 }
 
-
 .reach {
     height: 300px;
-    position: relative;
+    position: absolute;
     top: -1025px;
     left: 740px;
 }
