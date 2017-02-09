@@ -139,20 +139,25 @@
 
 #pro_one {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
+    top: -10px;
+    left: -5px;
 }
 
 #pro_two {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
+    top: -10px;
+    left: 5px;
 }
 
 #pro_three {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
+    left: 700px;
 }
 
 #reach {
