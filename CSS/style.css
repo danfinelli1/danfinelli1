@@ -16,6 +16,12 @@ h2, h5 {
    width: 120px;
 }
 
+.nav-logo {
+   width: 60px;
+   height: 60px;
+   padding: 10px;
+}
+
 .dropdown-content li>a {
    color: #000 !important;
 }
@@ -107,4 +113,10 @@ h2, h5 {
     width: 100%;
     height: 350px;
     background-color: #414042;
+}
+
+#ham {
+  height: 60px;
+  width: 60px;
+  padding: 10px;
 }
