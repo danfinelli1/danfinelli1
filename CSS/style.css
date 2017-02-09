@@ -134,6 +134,10 @@
     position: relative;
 }
 
+.reach {
+    width: 300px;
+}
+
 
 #my_projects {
     height: 600px;
