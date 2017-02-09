@@ -5,6 +5,18 @@
     position: relative;
 }
 
+.foot-1 {
+    position: relative;
+    height: 50%;
+    background-color: #58595B;
+}
+
+.foot-2 {
+    position: relative;
+    height: 50%;
+    background-color: #414042;
+}
+
 .what {
     width: 300px;
     position: relative;
@@ -36,7 +48,7 @@
 .resume {
     width: 150px;
     position: absolute;
-    top: 175px;
+    top: 165px;
     left: -45px;
 }
 
@@ -122,6 +134,11 @@
     background-color: #414042;
     position: relative;
     top: -20px;
+}
+
+#footwords {
+    text-align: center;
+    color: white;
 }
 
 #ham {
