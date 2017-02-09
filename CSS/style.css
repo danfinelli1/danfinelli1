@@ -4,6 +4,10 @@ h2, h5 {
   color: white;
 }
 
+.bar {
+    background-color: #414042;
+}
+
 .parallax-container {
    height: 640px;
 }
@@ -27,11 +31,11 @@ h2, h5 {
 }
 
 .work_btn {
-   margin-left: 43%;
    padding-top: 17px;
-   padding-bottom: 45px;
-   padding-left: 50px;
-   padding-right: 50px;
+   padding-bottom: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   background-color: #FF8080;
 }
 
 .who {
