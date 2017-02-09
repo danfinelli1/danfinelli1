@@ -37,26 +37,26 @@ h2, h5 {
 .who {
    color: #f97082;
    position: absolute;
-   top: 110px;
+   top: 99px;
 }
 
 .i_am {
    color: black;
    position: absolute;
-   top: 170px;
+   top: 160px;
 }
 
 .what {
     color: #f97082;
     position: absolute;
-    top: 1150px;
+    top: 1140px;
     right: 150px;
 }
 
 .i_do {
     color: white;
     position: absolute;
-    top: 1210px;
+    top: 1200px;
     right: 150px;
 }
 
@@ -87,16 +87,22 @@ h2, h5 {
 #be {
     position: absolute;
     left: 150px;
+    color: white;
+    top: 1320px;
 }
 
 #fe {
     position: absolute;
-    left: 450px;
+    left: 440px;
+    color: white;
+    top: 1320px;
 }
 
 #ts {
     position: absolute;
-    left: 600px;
+    left: 735px;
+    color: white;
+    top: 1320px;
 }
 
 #do {
