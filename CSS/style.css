@@ -13,11 +13,11 @@
 }
 
 .social {
-    width: 45px;
+    width: 55px;
     height: 45px;
     display: inline;
     position: relative;
-    left: 44%;
+    left: 43%;
     top: 8px;
 }
 
@@ -133,7 +133,7 @@
 .reach {
     height: 300px;
     position: absolute;
-    top: -1025px;
+    top: 2050px;
     left: 740px;
 }
 
