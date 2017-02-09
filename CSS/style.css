@@ -6,7 +6,10 @@
 }
 
 .done {
-  position: relative;
+    position: relative;
+    top: -50px;
+    height: 300px;
+    left: -20px;
 }
 
 .social {
@@ -127,9 +130,10 @@
     top: -15px;
 }
 
-#reach {
-    height: 600px;
+.reach_me {
+    position: relative;
 }
+
 
 #my_projects {
     height: 600px;
@@ -168,7 +172,6 @@
     text-align: center;
     color: white;
     position: relative;
-    top: 25%;
 }
 
 #ham {
