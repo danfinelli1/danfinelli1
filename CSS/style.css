@@ -20,7 +20,7 @@
 
 .who {
     position: relative;
-    top: 19px;
+    top: 30px;
     left: 20px;
     width: 300px;
 
@@ -29,12 +29,15 @@
 .para {
     position: absolute;
     right: 175px;
-    top: 109px;
+    top: 120px;
     font-size: larger;
 }
 
 .resume {
     width: 150px;
+    position: absolute;
+    top: 175px;
+    left: -45px;
 }
 
 .nav {
@@ -89,7 +92,7 @@
     width: 100%;
     height: 350px;
     position: relative;
-    top: -25px;
+    top: -15px;
 }
 
 #be {
@@ -100,23 +103,25 @@
 }
 
 #fe {
-    position: absolute;
-    left: 440px;
-    color: white;
-    top: 1320px;
+    position: relative;
+    left: 30px;
+    top: -195px;
+    width: 300px;
 }
 
 #ts {
-    position: absolute;
-    left: 735px;
-    color: white;
-    top: 1320px;
+    position: relative;
+    left: 90px;
+    top: -200px;
+    width: 300px;
 }
 
 #do {
     width: 100%;
     height: 400px;
     background-color: #414042;
+    position: relative;
+    top: -20px;
 }
 
 #ham {
