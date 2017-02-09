@@ -15,4 +15,16 @@ $(document).ready(function(){
           scrollTop: $("#my_projects").offset().top
       }, 2000);
   });
+
+  $(".am_drop").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#am").offset().top
+      }, 2000);
+  });
+
+  $(".reach_drop").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#reach").offset().top
+      }, 2000);
+  });
 });
