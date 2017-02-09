@@ -5,10 +5,11 @@
     position: relative;
 }
 
-form {
+.form {
     position: relative;
     width: 650px;
     left: 550px;
+    top: -550px;
 }
 
 .done {
