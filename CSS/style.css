@@ -2,6 +2,11 @@ form {
   width: 600px;
 }
 
+textarea.materialize-textarea:focus.valid {
+    border-bottom: 1px solid #FF8080;
+    box-shadow: 0 1px 0 0 #FF8080;
+}
+
 .input-field .prefix.active {
   color: #FF8080;
 }

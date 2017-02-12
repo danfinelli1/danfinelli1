@@ -30,7 +30,6 @@ $(document).ready(function(){
 
   $("form").submit(function (event) {
     event.preventDefault();
-    var email, first_name, last_name, message;
     var formData = $("form").serialize();
     var infoArr = [];
     formData = formData.split('&');
@@ -41,7 +40,6 @@ $(document).ready(function(){
     var mailto_link = 'mailto:'+infoArr[2]+'?subject='+infoArr[0]+'%20'+infoArr[1]+'&body='+infoArr[3];
     window.open(mailto_link);
     alert("Thank You!");
-  //  window.open('mailto:finelli.daniel@gmail.com');
 
   });
 
