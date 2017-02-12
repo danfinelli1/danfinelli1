@@ -15,7 +15,7 @@ i input:active {
 }
 
 .form_btn input:focus {
-  color: #FF8080 !important;
+  background-color: #FF8080 !important;
 }
 
 .material-icons input:focus {
