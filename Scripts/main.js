@@ -32,7 +32,7 @@ $(document).ready(function(){
     event.preventDefault();
     var formData = $("form").serialize();
     console.log(formData);
-  //  window.open('mailto:test@example.com');
+    window.open('mailto:finelli.daniel@gmail.com');
   });
 
   $(window).scroll(function(e) {

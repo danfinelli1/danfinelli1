@@ -2,12 +2,12 @@ form {
   width: 600px;
 }
 
-i {
+i input:active {
   color: #FF8080;
 }
 
-.form_btn {
-  background-color: #FF8080;
+.form_btn input:focus {
+  color: #FF8080 !important;
 }
 
 .material-icons input:focus {
