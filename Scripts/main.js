@@ -34,4 +34,11 @@ $(document).ready(function(){
     console.log(formData);
     window.open('mailto:test@example.com');
   });
+
+  $(window).scroll(function(e) {
+    if($(window).scrollTop() >=2970) {
+       $(window).scrollTop(2970);
+    }
+  });
+
 });
