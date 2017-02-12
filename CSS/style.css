@@ -2,6 +2,14 @@ form {
   width: 600px;
 }
 
+.input-field .prefix.active {
+  color: #FF8080;
+}
+
+.prefix.active {
+  color: #FF8080;
+}
+
 i input:active {
   color: #FF8080;
 }
