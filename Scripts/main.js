@@ -29,10 +29,14 @@ $(document).ready(function(){
   });
 
   $("form").submit(function (event) {
+    var mailto_link = 'mailto:'+email+'?subject='+first_name+'%20'+last_name+'&body='+message;
+    window.location.href = mailto_link;
+    alert("Thank You!")
     event.preventDefault();
     var formData = $("form").serialize();
     console.log(formData);
-    window.open('mailto:finelli.daniel@gmail.com');
+  //  window.open('mailto:finelli.daniel@gmail.com');
+
   });
 
   $(window).scroll(function(e) {
