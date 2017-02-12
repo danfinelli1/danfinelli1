@@ -3,7 +3,7 @@ form {
 }
 
 
-.material-icons {
+.material-icons input:focus {
   color: #FF8080;
 }
 
