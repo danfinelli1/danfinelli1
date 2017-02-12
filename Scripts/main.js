@@ -31,6 +31,7 @@ $(document).ready(function(){
   $(".form_btn").submit(function (event) {
     event.preventDefault();
     var formData = $(".form_btn").serialize();
+    console.log(formData);
     window.open('mailto:test@example.com');
   });
 });
