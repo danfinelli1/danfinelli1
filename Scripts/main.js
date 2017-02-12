@@ -30,7 +30,7 @@ $(document).ready(function(){
 
   $(".form_btn").submit(function (event) {
     event.preventDefault();
-    var formData = $.("form_btn").serialize();
+    var formData = $(".form_btn").serialize();
     window.open('mailto:test@example.com');
   });
 });
