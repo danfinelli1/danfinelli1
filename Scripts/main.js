@@ -30,11 +30,15 @@ $(document).ready(function(){
 
   $("form").submit(function (event) {
     event.preventDefault();
+    var email, first_name, last_name, message;
     var formData = $("form").serialize();
-    console.log(formData);
-    console.log(formData.first_name);
-    console.log(formData[first_name]);
-    var mailto_link = 'mailto:'+email+'?subject='+first_name+'%20'+last_name+'&body='+textarea1;
+    var infoArr = [];
+    formData = formData.split('&');
+    for (var i = 0; i<formData.length; i++){
+      infoArr.push(formData[i].split('=')[1]);
+    }
+    console.log(infoArr);
+    var mailto_link = 'mailto:'+infoArr[2]+'?subject='+infoArr[0]+'%20'+infoArr[1]+'&body='+infoArr[3];
     window.open(mailto_link);
     alert("Thank You!");
   //  window.open('mailto:finelli.daniel@gmail.com');
