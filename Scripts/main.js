@@ -28,9 +28,9 @@ $(document).ready(function(){
       }, 2000);
   });
 
-  $(".form_btn").click(function (event) {
+  $("form").submit(function (event) {
     event.preventDefault();
-    var formData = $(".form_btn").serialize();
+    var formData = $("form").serialize();
     console.log(formData);
   //  window.open('mailto:test@example.com');
   });
