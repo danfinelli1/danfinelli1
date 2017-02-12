@@ -2,6 +2,15 @@ form {
   width: 600px;
 }
 
+.input-field input:focus + label {
+  color: #FF8080 !important;
+}
+/* label underline focus color */
+.row .input-field input:focus {
+  border: 1px solid #FF8080 !important;
+  box-shadow: 0 1px 0 0 #FF8080 !important
+}
+
 .name {
     text-align: center;
     color: white;
