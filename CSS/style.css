@@ -192,28 +192,6 @@ i input:active {
     left: 740px;
 }
 
-#pro_one {
-    position: relative;
-    width: 275px;
-    height: 275px;
-    top: -10px;
-    left: -5px;
-}
-
-#pro_two {
-    position: relative;
-    width: 275px;
-    height: 275px;
-    top: -10px;
-    left: 5px;
-}
-
-#pro_three {
-    position: relative;
-    width: 275px;
-    height: 275px;
-    left: 700px;
-}
 
 #reach {
     height: 800px;
