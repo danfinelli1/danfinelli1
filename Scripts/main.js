@@ -31,7 +31,9 @@ $(document).ready(function(){
   $("form").submit(function (event) {
     event.preventDefault();
     var formData = $("form").serialize();
-    console.log(formData.first_name);
+    console.log(formData);
+    console.log(formdata);
+    console.log(formData[first_name]);
     var mailto_link = 'mailto:'+email+'?subject='+first_name+'%20'+last_name+'&body='+textarea1;
     window.open(mailto_link);
     alert("Thank You!");
