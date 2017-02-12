@@ -10,6 +10,8 @@ textarea.materialize-textarea:focus.valid {
 .card {
   width: 275px;
   height: 275px;
+  left: 875px;
+  top: -275px;
 }
 
 .input-field .prefix.active {
