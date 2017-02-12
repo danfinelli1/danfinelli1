@@ -32,12 +32,12 @@ $(document).ready(function(){
     event.preventDefault();
     var formData = $(".form_btn").serialize();
     console.log(formData);
-    window.open('mailto:test@example.com');
+  //  window.open('mailto:test@example.com');
   });
 
   $(window).scroll(function(e) {
-    if($(window).scrollTop() >=2255) {
-       $(window).scrollTop(2255);
+    if($(window).scrollTop() >=2265) {
+       $(window).scrollTop(2265);
     }
   });
 
