@@ -2,6 +2,10 @@ form {
   width: 600px;
 }
 
+i {
+  color: #FF8080;
+}
+
 .form_btn {
   background-color: #FF8080;
 }
