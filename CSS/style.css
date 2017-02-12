@@ -23,6 +23,7 @@ form {
     width: 650px;
     left: 550px;
     top: -550px;
+    display: inline-block;
 }
 
 .done {
