@@ -36,8 +36,8 @@ $(document).ready(function(){
   });
 
   $(window).scroll(function(e) {
-    if($(window).scrollTop() >=2970) {
-       $(window).scrollTop(2970);
+    if($(window).scrollTop() >=2533) {
+       $(window).scrollTop(2533);
     }
   });
 
