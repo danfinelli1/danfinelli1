@@ -28,7 +28,7 @@ $(document).ready(function(){
       }, 2000);
   });
 
-  $(".form_btn").submit(function (event) {
+  $(".form_btn").click(function (event) {
     event.preventDefault();
     var formData = $(".form_btn").serialize();
     console.log(formData);
