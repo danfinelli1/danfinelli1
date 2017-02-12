@@ -2,6 +2,9 @@ form {
   width: 600px;
 }
 
+.form_btn {
+  background-color: #FF8080;
+}
 
 .material-icons input:focus {
   color: #FF8080 !important;
@@ -10,7 +13,7 @@ form {
 .input-field input:focus + label {
   color: #FF8080 !important;
 }
-/* label underline focus color */
+
 .row .input-field input:focus {
   border: .5px solid #FF8080 !important;
   box-shadow: 0 1px 0 0 #FF8080 !important
