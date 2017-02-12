@@ -7,6 +7,11 @@ textarea.materialize-textarea:focus.valid {
     box-shadow: 0 1px 0 0 #FF8080;
 }
 
+.card {
+  width: 275px;
+  height: 275px;
+}
+
 .input-field .prefix.active {
   color: #FF8080;
 }
