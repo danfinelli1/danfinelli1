@@ -32,7 +32,7 @@ $(document).ready(function(){
     event.preventDefault();
     var formData = $("form").serialize();
     console.log(formData);
-    console.log(formdata);
+    console.log(formData.first_name);
     console.log(formData[first_name]);
     var mailto_link = 'mailto:'+email+'?subject='+first_name+'%20'+last_name+'&body='+textarea1;
     window.open(mailto_link);
