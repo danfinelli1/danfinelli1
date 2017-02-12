@@ -33,7 +33,7 @@ $(document).ready(function(){
     var formData = $("form").serialize();
     console.log(formData);
     var mailto_link = 'mailto:'+email+'?subject='+first_name+'%20'+last_name+'&body='+textarea1;
-    $(window).open(mailto_link);
+    window.open(mailto_link);
     alert("Thank You!");
   //  window.open('mailto:finelli.daniel@gmail.com');
 
