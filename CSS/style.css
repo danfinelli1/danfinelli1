@@ -14,7 +14,7 @@ i input:active {
   color: #FF8080;
 }
 
-.form_btn input:focus {
+.form_btn:focus {
   background-color: #FF8080 !important;
 }
 
