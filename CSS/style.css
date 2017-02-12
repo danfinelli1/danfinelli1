@@ -2,7 +2,7 @@ form {
   width: 600px;
 }
 
-.material-icons input:focus + label {
+.material-icons input:focus {
   color: #FF8080 !important;
 }
 
@@ -15,9 +15,10 @@ form {
   box-shadow: 0 1px 0 0 #FF8080 !important
 }
 
-.row .material-icons input:focus {
-  border: .5px solid #FF8080 !important;
-  box-shadow: 0 1px 0 0 #FF8080 !important
+
+._e725ae-transform_wrap {
+  position: relative;
+  left: 600px;
 }
 
 .name {
