@@ -23,10 +23,8 @@ textarea.materialize-textarea:focus.valid {
 }
 
 .link {
-    color: black;
+    color: #FF8080;
     text-decoration: underline;
-    text-decoration-style: wavy;
-    text-decoration-color: #FF8080;
 }
 
 .input-field .prefix.active {
