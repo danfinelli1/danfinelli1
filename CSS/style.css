@@ -7,6 +7,10 @@ textarea.materialize-textarea:focus.valid {
     box-shadow: 0 1px 0 0 #FF8080;
 }
 
+.projects {
+  height: 400px;
+}
+
 .card {
   width: 275px;
   position: relative;
@@ -223,11 +227,6 @@ i input:active {
 
 #reach {
     height: 800px;
-}
-
-
-#my_projects {
-    height: 600px;
 }
 
 #be {
