@@ -7,10 +7,10 @@ textarea.materialize-textarea:focus.valid {
     box-shadow: 0 1px 0 0 #FF8080;
 }
 
-.project_img {
+.card {
   width: 275px;
   height: 275px;
-  position: absolute;
+  position: relative;
 }
 
 .link {
