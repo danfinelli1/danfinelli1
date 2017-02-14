@@ -10,6 +10,7 @@ textarea.materialize-textarea:focus.valid {
 .project_img {
   width: 275px;
   height: 275px;
+  position: absolute;
 }
 
 .link {
