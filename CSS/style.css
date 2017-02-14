@@ -202,7 +202,8 @@ i input:active {
     left: 740px;
 }
 
-#project_one {
+#card_one {
+  position: relative;
   width: 275px;
   height: 275px;
   left: 875px;
