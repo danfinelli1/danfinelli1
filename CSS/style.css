@@ -9,8 +9,11 @@ textarea.materialize-textarea:focus.valid {
 
 .card {
   width: 275px;
-  height: 275px;
   position: relative;
+}
+
+.card .card-image {
+  max-height: 275px;
 }
 
 .link {
@@ -206,6 +209,16 @@ i input:active {
 #card_one {
   left: 875px;
   top: -275px;
+}
+
+#card_two {
+  left: 87px;
+  top: -275px;
+}
+
+#card_three {
+  left: 75px;
+  top: -75px;
 }
 
 #reach {
