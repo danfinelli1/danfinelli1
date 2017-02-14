@@ -24,7 +24,9 @@ textarea.materialize-textarea:focus.valid {
 
 .link {
     color: black;
-    text-decoration: underline #FF8080;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #FF8080;
 }
 
 .input-field .prefix.active {
@@ -211,22 +213,24 @@ i input:active {
 }
 
 #card_one {
-  left: 872px;
-  top: -315px;
+  left: 870px;
+  top: -300px;
 }
 
 #card_two {
-  left: 578px;
-  top: -625px;
+  left: 580px;
+  top: -610px;
 }
 
 #card_three {
   left: 725px;
-  top: -620px;
+  top: -610px;
 }
 
 #reach {
     height: 800px;
+    position: relative;
+    top: 10px;
 }
 
 #be {
