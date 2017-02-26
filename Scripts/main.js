@@ -6,13 +6,13 @@ $(document).ready(function(){
 
   $(".work_btn").click(function() {
       $('html, body').animate({
-          scrollTop: $("#my_projects").offset().top
+          scrollTop: $(".projects").offset().top
       }, 2000);
   });
 
   $(".work_drop").click(function() {
       $('html, body').animate({
-          scrollTop: $("#my_projects").offset().top
+          scrollTop: $(".projects").offset().top
       }, 2000);
   });
 
