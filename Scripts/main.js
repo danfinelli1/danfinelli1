@@ -36,9 +36,9 @@ $(document).ready(function(){
     for (var i = 0; i<formData.length; i++){
       infoArr.push(formData[i].split('=')[1]);
     }
-    var mailto_link = 'mailto:finellidaniel@gmail.com?subject='+infoArr[0]+'%20'+infoArr[1]+'&body='+infoArr[3];
+    var mailto_link = 'mailto:finellidaniel@gmail.com?subject='+infoArr[0]+'%20'+infoArr[1]+'&body='+infoArr[3]+infoArrp[2];
     window.open(mailto_link);
-    alert("Thank You!");
+    alert("Just click send! Thank You for reaching out!");
 
   });
 
